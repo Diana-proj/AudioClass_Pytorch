@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files
+*.tar.gz
+*.zip
+*.h5
+*.csv
+*.json
+
+# Logs
+logs/
+*.log
